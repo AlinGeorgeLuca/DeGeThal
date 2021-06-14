@@ -1,0 +1,2 @@
+# DeGeThal
+DeGeThal - Decentralized Thaler
